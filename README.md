@@ -39,7 +39,7 @@ After creating your repo as above, you can change your codes or you can add new 
 2. Give the information for change on file to follow later, so tell the stage of file to Git via "commit": 
 \ `git commit -m "file is changed due to this reason ... `
 3. Now the files are stored in your local Git, everything is okay in local, but the updated project files still doesnt exist Remote Server, github. So push them to Remote Server to store in online.
-\ `git push`   
+\`git push`   
 Use these steps for the changes on your project.
 
 
