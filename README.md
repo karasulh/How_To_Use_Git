@@ -16,9 +16,7 @@ you can change the project files as you wish.
 ## If we have a Project on local computer without Git 
 1. If we have project on local computer, we can create a Git repo and send project to Remote Git Server. To do this, 
 firstly create an empty(even any file like readme,license shouldnot be included.) repo on Remote Git Server like Github. Then in local, we must be in the project root directory. Here, after opening cmd or terminal of VSCode, we should initialize Git with this command:
-
-`git init`
-
+ `git init`
 2. Then it is suggestable to create a Readme file with the name of "README.md" in your local project file. After creating this file, "add" this to local Git, this step change the "stage" of this file. It means this command prepares file to be followed in git:
 `git add README.md`
 3. To specify the reason of the change on file, we should use "commit" because the the changes on the files are stored as history of the files.Actually, it is the aim of Git. It stores every stage of the files and commits are useful to understand changes on files. If we dont commit, we can not push our files to Git Server.  
