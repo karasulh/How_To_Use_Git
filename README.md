@@ -6,7 +6,8 @@ If already a project exists on Github or another Git remote server, we should "c
 To clone it we must use the Https URL of the repo which can be taken from the green "Code" button on the repo main page.
 After creating suitable folder for you, open terminal there(can be used VSCode terminal) and use this command: 
 `git clone [URL]`    
-Then you have a project on your local. You can change the project files as you wish.
+Then you have a project on your local. After entering the downloaded folder directory, you can see all project files and
+you can change the project files as you wish.
 
 ## If we have a Project on local computer 
 1-If we have project on local computer, we can create a Git repo and send project to Remote Git Server. To do this, 
