@@ -31,7 +31,7 @@ Initially, there is only one branch. To rename it as "main", use it:
 
 ---
 
-## To use Git on your current project 
+## To use Git on your current project (after the steps above)
 After creating your repo as above, you can change your codes or you can add new files to your project, anything like that, you will use these commands:
 1. When any file is changed, "add" them to prepare file to send local repo. Use it:  
 `git add <file name>`  
