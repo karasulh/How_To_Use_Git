@@ -26,18 +26,20 @@ Initially, there is only one branch. To rename it as "main", use it:
 `git branch -M main`
 5. We should give the remoter Server adress to upload our project. Actually, we will assign the Remote Server URL to "origin"(think it as a constant which store URL address). To do this:
 `git remote add origin [URL]`
-6. For final step, we will push the project on local to Git Remote Server(origin=URL,main is our fundamental branch). Then the project is accesible from online.
+6. For final step, we will push the project on local to Git Remote Server(origin=URL,main is our fundamental branch). Then the project is accesible from online. \
 `git push -u origin main`
 
 ---
 
 ## To use Git on your current project 
 After creating your repo as above, you can change your codes or you can add new files to your project, anything like that, you will use these commands:
-1. When any file is changed, "add" them to prepare file to send local repo. Use it:  `git add <file name>` 
-or `git add .` "." means "all".
-2. Give the information for change on file to follow later, so tell the stage of file to Git via "commit":  `git commit -m "file is changed due to this reason ... `
+1. When any file is changed, "add" them to prepare file to send local repo. Use it: 
+\ `git add <file name>` 
+\ or `git add .` "." means "all".
+2. Give the information for change on file to follow later, so tell the stage of file to Git via "commit": 
+\ `git commit -m "file is changed due to this reason ... `
 3. Now the files are stored in your local Git, everything is okay in local, but the updated project files still doesnt exist Remote Server, github. So push them to Remote Server to store in online.
-`git push`   
+\ `git push`   
 Use these steps for the changes on your project.
 
 
