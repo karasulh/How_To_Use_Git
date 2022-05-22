@@ -4,11 +4,11 @@ It is created to show the use of Github commands.
 ---
 
 ## If we have Git Project on Github before
--If already a project exists on Github or another Git remote server, we should "clone" it to our local computer.
+- If already a project exists on Github or another Git remote server, we should "clone" it to our local computer.
 To clone it we must use the Https URL of the repo which can be taken from the green "Code" button on the repo main page.
 -After creating suitable folder for you, open terminal there(can be used VSCode terminal) and use this command:  
 `git clone [URL]`    
--Then you have a project on your local. After entering the downloaded folder directory, you can see all project files and
+- Then you have a project on your local. After entering the downloaded folder directory, you can see all project files and
 you can change the project files as you wish.
 
 ---
