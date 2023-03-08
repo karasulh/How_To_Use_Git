@@ -1,5 +1,5 @@
 # How To Use Git
-It is created to show the use of Github commands.
+It is created to show the use of Github commands. It is my first repo in Git. It is for me and anybody who needs.
 
 ---
 
